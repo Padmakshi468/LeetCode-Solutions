@@ -6,6 +6,7 @@ My Data Structures and Algorithms practice using Java
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Padmakshi468/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0502-ipo](https://github.com/Padmakshi468/LeetCode-Solutions/tree/master/0502-ipo) |
 ## Greedy
 |  |
@@ -19,4 +20,8 @@ My Data Structures and Algorithms practice using Java
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Padmakshi468/LeetCode-Solutions/tree/master/0502-ipo) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Padmakshi468/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
